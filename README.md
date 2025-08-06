@@ -50,5 +50,10 @@ This Excel dashboard provides a comprehensive view of **branch-wise debit and cr
     → Counts or highlights repeated transactions that may indicate fraud.
 
 ---
+## 🙋‍♂️ About Me
+
+This Excel dashboard was created by Mrunmayee Hasabnis, a data enthusiast with experience in retail IT and a strong interest in data analytics and visualization
+
+Connect with me on (www.linkedin.com/in/mrunmayee-hasabnis)
 
 
